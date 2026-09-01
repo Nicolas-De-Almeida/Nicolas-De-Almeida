@@ -7,19 +7,22 @@
     src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
 </picture>
 
-## Hi there 👋
 
-<!--
-**Nicolas-De-Almeida/Nicolas-De-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Título -->
+<p align="right">
+  <a href="#-about-me">🇺🇸 English 🇬🇧</a> | <a href="#-sobre-mim">🇧🇷 Português</a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Versão em Inglês -->
+<div align="justify">
+  <h2>🇺🇸 About Me 🇬🇧</h2>
+  <i><b>Hey there</b> :wave:, My name is <code>Nícolas</code>, I'm 21 years old and currently a <code>Software Engineering</code> student at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<!-- Versão em Português -->
+<div align="justify">
+  <h2>🇧🇷 Sobre Mim</h2>
+  <i><b>Opa</b> :wave:, Meu nome é <code>Nícolas</code>, tenho 21 anos e atualmente sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i>
+</div>
