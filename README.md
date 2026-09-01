@@ -7,6 +7,7 @@
     src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
 </picture>
 
+----
 
 <!-- Título -->
 <p align="right">
@@ -25,4 +26,25 @@
 <div align="justify">
   <h2>🇧🇷 Sobre Mim</h2>
   <i><b>Opa</b> :wave:, Meu nome é <code>Nícolas</code>, tenho 21 anos e atualmente sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i>
+</div>
+
+----
+
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="3"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Nicolas-De-Almeida" target="_blank"><img src="/img/github.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:nicolas.dealmeida.br@gmail.com" target="_blank"><img src="/img/gmail.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/nicolas-de-almeida-45b810411" target="_blank"><img src="/img/linkedin.png" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3"></td>
+</tr>
+</table>
 </div>
