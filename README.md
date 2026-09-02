@@ -36,15 +36,35 @@
 <td align="center" colspan="3"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Nicolas-De-Almeida" target="_blank"><img src="/img/github.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Nicolas-De-Almeida" target="_blank"><img src="./img/github.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:nicolas.dealmeida.br@gmail.com" target="_blank"><img src="/img/gmail.png" width="50px" height="50px"/></a>
+<td><a href="mailto:nicolas.dealmeida.br@gmail.com" target="_blank"><img src="./img/gmail.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/nicolas-de-almeida-45b810411" target="_blank"><img src="/img/linkedin.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/nicolas-de-almeida-45b810411" target="_blank"><img src="./img/linkedin.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="3"></td>
 </tr>
 </table>
+</div>
+
+----
+
+<tr>
+<td>
+<a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensinograduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">
+<img src="./img/engsoft.png" width="425px" height="75px"/>
+</a>
+</td>
+</tr>
+
+----
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B00FF&width=435&lines=//Volte+sempre!" alt="Typing SVG" />
+
 </div>
