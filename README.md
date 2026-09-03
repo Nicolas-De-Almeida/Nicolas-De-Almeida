@@ -44,36 +44,33 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" colspan="3"></td>
+      <td align="center" colspan="4"></td>
     </tr>
-<tr>
-  <td>
-    <a href="https://github.com/Nicolas-De-Almeida" target="_blank">
-      <img src="./img/github.png" width="50px" height="50px"/>
-    </a>
-  </td>
-
-  <td>
-    <a href="mailto:nicolas.dealmeida.br@gmail.com" target="_blank">
-      <img src="./img/gmail.png" width="50px" height="50px"/>
-    </a>
-  </td>
-
-  <td>
-    <a href="https://www.linkedin.com/in/nicolas-de-almeida-45b810411" target="_blank">
-      <img src="./img/linkedin.png" width="50px" height="50px"/>
-    </a>
-  </td>
-
-  <td>
-    <a href="https://leetcode.com/u/Nicolas_De_Almeida/" target="_blank">
-      <img src="./img/leetcode.png" width="50px" height="50px"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td align="center" colspan="3"></td>
-</tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Nicolas-De-Almeida" target="_blank">
+          <img src="./img/github.png" width="50px" height="50px"/>
+        </a>
+      </td>
+      <td>
+        <a href="mailto:nicolas.dealmeida.br@gmail.com" target="_blank">
+          <img src="./img/gmail.png" width="50px" height="50px"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/nicolas-de-almeida-45b810411" target="_blank">
+          <img src="./img/linkedin.png" width="50px" height="50px"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://leetcode.com/u/Nicolas_De_Almeida/" target="_blank">
+          <img src="./img/leetcode.png" width="50px" height="50px"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="4"></td>
+    </tr>
   </table>
 </div>
 
