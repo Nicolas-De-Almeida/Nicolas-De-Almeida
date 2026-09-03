@@ -64,8 +64,13 @@
       <img src="./img/linkedin.png" width="50px" height="50px"/>
     </a>
   </td>
-</tr>
 
+  <td>
+    <a href="https://leetcode.com/u/Nicolas_De_Almeida/" target="_blank">
+      <img src="./img/leetcode.png" width="50px" height="50px"/>
+    </a>
+  </td>
+</tr>
 <tr>
   <td align="center" colspan="3"></td>
 </tr>
@@ -92,12 +97,12 @@
   </td>
   <td align="center">
     <a href="https://www.w3schools.com/html/" target="_blank">
-      <img width="32" height="32" src="./img/html.png"/>
+      <img width="32" height="32" src="./img/html.svg"/>
     </a>
   </td>
   <td align="center">
     <a href="https://www.w3schools.com/css/" target="_blank">
-      <img width="32" height="32" src="./img/css.png"/>
+      <img width="32" height="32" src="./img/css.svg"/>
     </a>
   </td>
   <td align="center">
