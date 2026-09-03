@@ -74,6 +74,44 @@
 
 ---
 
+<div>
+
+<img height="20" alt="SVG" src="./img/skills.png"/> Linguagens e ferramentas:
+
+  <table align="center">
+<tr>
+  <td align="center">
+    <a href="https://www.python.org/" target="_blank">
+      <img width="32" height="32" src="./img/python.png"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.java.com/pt-BR/" target="_blank">
+      <img width="32" height="32" src="./img/java.png"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.w3schools.com/html/" target="_blank">
+      <img width="32" height="32" src="./img/html.png"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img width="32" height="32" src="./img/css.png"/>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://www.w3schools.com/js/" target="_blank">
+      <img width="32" height="32" src="./img/javascript.png"/>
+    </a>
+  </td>
+</tr>
+  </table>
+
+</div>
+
+---
+
 <div align="center">
   <table>
     <tr>
@@ -94,3 +132,4 @@
     alt="Typing SVG"
   />
 </div>
+
