@@ -114,6 +114,29 @@
 
 ---
 
+<tr>
+
+  <td>
+    <img
+      src="https://helio-github-stats.vercel.app/api?username=Nicolas-De-Almeida&custom_title=GitHub+Stats&theme=dark&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&ring_color=8B00FF&border_color=8B00FF&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short"
+      alt="GitHub Stats"
+      width="466"
+      height="auto"
+      loading="lazy"
+    />
+  </td>
+
+  <td>
+    <img
+      src="https://streak-stats.demolab.com?user=Nicolas-De-Almeida&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=485&card_height=195&ring=00D9FF&fire=8B00FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff&disable_animations=false"
+      alt="GitHub Streak"
+      width="485px"
+    />
+  </td>
+
+</tr>
+
+---
 <div align="center">
   <table>
     <tr>
