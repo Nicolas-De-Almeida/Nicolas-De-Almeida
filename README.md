@@ -113,7 +113,7 @@
 </div>
 
 ---
-
+<!-->
 <tr>
 
   <td>
@@ -125,7 +125,7 @@
       loading="lazy"
     />
   </td>
-
+-->
   <td>
     <img
       src="https://streak-stats.demolab.com?user=Nicolas-De-Almeida&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=485&card_height=195&ring=00D9FF&fire=8B00FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff&disable_animations=false"
