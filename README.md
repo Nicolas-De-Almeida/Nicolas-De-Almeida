@@ -1,19 +1,23 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg"
-  >
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg"
-  >
-</picture>
+<div align="center"><img src="./img/borda-topo.svg" width="100%" height="48" align="top" alt=""></div>
+<img src="./img/borda-lateral.svg" width="40" height="1350" align="left" alt="">
+<img src="./img/borda-lateral.svg" width="40" height="1350" align="right" alt="">
 
----
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
+    <img
+      alt="pacman contribution graph"
+      width="650"
+      src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<hr>
 
 <!-- Título -->
 <p align="right">
@@ -39,13 +43,10 @@
   </i>
 </div>
 
----
+<hr>
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" colspan="4"></td>
-    </tr>
     <tr>
       <td>
         <a href="https://github.com/Nicolas-De-Almeida" target="_blank">
@@ -58,7 +59,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/nicolas-de-almeida-45b810411" target="_blank">
+        <a href="https://www.linkedin.com/in/nicolasdealmeida" target="_blank">
           <img src="./img/linkedin.png" width="50px" height="50px"/>
         </a>
       </td>
@@ -68,94 +69,68 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="4"></td>
-    </tr>
   </table>
 </div>
 
----
-
-<div>
-
-<img height="20" alt="SVG" src="./img/skills.png"/> Linguagens e ferramentas:
-
-  <table align="center">
-<tr>
-  <td align="center">
-    <a href="https://www.python.org/" target="_blank">
-      <img width="32" height="32" src="./img/python.png"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.java.com/pt-BR/" target="_blank">
-      <img width="32" height="32" src="./img/java.png"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.w3schools.com/html/" target="_blank">
-      <img width="32" height="32" src="./img/html.svg"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img width="32" height="32" src="./img/css.svg"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.w3schools.com/js/" target="_blank">
-      <img width="32" height="32" src="./img/javascript.png"/>
-    </a>
-  </td>
-</tr>
-  </table>
-
-</div>
-
----
+<hr>
 
 <div align="center">
-
+  <img height="20" alt="SVG" src="./img/skills.png"/> Linguagens e ferramentas:
+  <br /><br />
   <table>
     <tr>
-      <td>
-        <img
-          src="https://helio-github-stats.vercel.app/api?username=Nicolas-De-Almeida&custom_title=GitHub+Stats&theme=dark&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&ring_color=8B00FF&border_color=8B00FF&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short"
-          alt="GitHub Stats"
-          width="466"
-          height="auto"
-          loading="lazy"/>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank">
+          <img width="32" height="32" src="./img/python.png"/>
+        </a>
       </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com?user=Nicolas-De-Almeida&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=485&card_height=195&ring=00D9FF&fire=8B00FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff&disable_animations=false"
-          alt="GitHub Streak"
-          width="485px"/>
+      <td align="center">
+        <a href="https://www.java.com/pt-BR/" target="_blank">
+          <img width="32" height="32" src="./img/java.png"/>
+        </a>
       </td>
-    </tr>
-  </table>
-
-</div>
-
----
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">
-          <img src="./img/engsoft.png" width="425px" height="75px"/>
+      <td align="center">
+        <a href="https://www.w3schools.com/html/" target="_blank">
+          <img width="32" height="32" src="./img/html.svg"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img width="32" height="32" src="./img/css.svg"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3schools.com/js/" target="_blank">
+          <img width="32" height="32" src="./img/javascript.png"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
----
+<hr>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!"
-    alt="Typing SVG"
-  />
+    src="https://helio-github-stats.vercel.app/api?username=Nicolas-De-Almeida&custom_title=GitHub+Stats&theme=dark&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&ring_color=8B00FF&border_color=ffffff&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short"
+    alt="GitHub Stats"
+    width="466"
+    loading="lazy"/>
+  <br /><br />
+  <img
+    src="https://streak-stats.demolab.com?user=Nicolas-De-Almeida&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=485&card_height=195&ring=00D9FF&fire=8B00FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff&disable_animations=false"
+    alt="GitHub Streak"
+    width="485"/>
 </div>
 
+<hr>
+
+<div align="center">
+  <a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">
+    <img src="./img/engsoft.png" width="425px" height="75px"/>
+  </a>
+</div>
+
+<br />
+
+<div align="center"><img src="./img/borda-base.svg" width="100%" height="48" align="top" alt=""></div>
