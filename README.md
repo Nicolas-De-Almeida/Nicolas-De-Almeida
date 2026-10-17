@@ -1,6 +1,7 @@
+
 <div align="center"><img src="./img/borda-topo.svg" width="100%" height="48" align="top" alt=""></div>
-<img src="./img/borda-lateral.svg" width="40" height="1350" align="left" alt="">
-<img src="./img/borda-lateral.svg" width="40" height="1350" align="right" alt="">
+<p><img src="./img/borda-lateral-esq.svg" width="40" height="1250" align="left" alt="">
+<img src="./img/borda-lateral-dir.svg" width="40" height="1250" align="right" alt=""></p>
 
 <div align="center">
   <picture>
@@ -12,7 +13,7 @@
       srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
     <img
       alt="pacman contribution graph"
-      width="650"
+      width="500"
       src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
   </picture>
 </div>
@@ -27,17 +28,17 @@
 
 <!-- Versão em Inglês -->
 <div align="justify">
-  <h2>🇺🇸 About Me 🇬🇧</h2>
+  <h3>🇺🇸 About Me 🇬🇧</h3>
   <i>
     <b>Hey there</b> :wave:, My name is <code>Nícolas</code>, I'm 21 years old and currently a <code>Software Engineering</code> student at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. I speak Portuguese and English, and I'm currently learning Spanish (it used to be better :)
   </i>
 </div>
 
-<br />
+<br/>
 
 <!-- Versão em Português -->
 <div align="justify">
-  <h2>🇧🇷 Sobre Mim</h2>
+  <h3>🇧🇷 Sobre Mim</h3>
   <i>
     <b>Opa</b> :wave:, Meu nome é <code>Nícolas</code>, tenho 21 anos e atualmente sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Eu falo Português e Inglês, e atualmente estou aprendendo Espanhol (já foi melhor um dia :)
   </i>
@@ -131,6 +132,8 @@
   </a>
 </div>
 
-<br />
 
+
+
+<!-- Borda inferior-->
 <div align="center"><img src="./img/borda-base.svg" width="100%" height="48" align="top" alt=""></div>
