@@ -1,7 +1,7 @@
 
 <div align="center"><img src="./img/borda-topo.svg" width="100%" height="48" align="top" alt=""></div>
-<p><img src="./img/borda-lateral-esq.svg" width="40" height="1250" align="left" alt="">
-<img src="./img/borda-lateral-dir.svg" width="40" height="1250" align="right" alt=""></p>
+<p><img src="./img/borda-lateral-esq.svg" width="40" height="1550" align="left" alt="">
+<img src="./img/borda-lateral-dir.svg" width="40" height="1550" align="right" alt=""></p>
 
 <div align="center">
   <picture>
