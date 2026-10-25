@@ -12,7 +12,7 @@
       srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
     <img
       alt="pacman contribution graph"
-      width="600"
+      width="660"
       src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/output/pacman-contribution-graph.svg">
   </picture>
 </div>
@@ -124,11 +124,11 @@
           width="420"
           loading="lazy"/>
       </td>
-      <td align="center" valign="middle" width="140">
+      <td align="center" valign="middle" width="230">
         <i>
-          🐛WakaTime: contando as horas de código... e as de bug também.
+          Contando as horas de código... e as de bug também. 🐛
           <br /><br />
-          🐛WakaTime: counting hours of code... and bugs too.
+          Counting hours of code... and bugs too. 🐛
         </i>
       </td>
     </tr>
@@ -141,14 +141,14 @@
   <img
     src="https://helio-github-stats.vercel.app/api?username=Nicolas-De-Almeida&custom_title=GitHub+Stats&theme=dark&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&ring_color=8B00FF&border_color=ffffff&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short"
     alt="GitHub Stats"
-    width="400"
+    width="365"
     align="top"
     loading="lazy"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img
     src="https://streak-stats.demolab.com?user=Nicolas-De-Almeida&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&card_width=466&card_height=192&ring=00D9FF&fire=8B00FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff&disable_animations=false"
     alt="GitHub Streak"
-    width="400"
+    width="365"
     align="top"/>
 </div>
 
@@ -163,18 +163,30 @@
 <hr>
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/snake-output/github-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/snake-output/github-snake.svg">
-    <img
-      alt="snake contribution graph"
-      width="600"
-      src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/snake-output/github-snake.svg">
-  </picture>
+  <table>
+    <tr>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/snake-output/github-snake-dark.svg">
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/snake-output/github-snake.svg">
+          <img
+            alt="snake contribution graph"
+            width="640"
+            src="https://raw.githubusercontent.com/Nicolas-De-Almeida/Nicolas-De-Almeida/snake-output/github-snake.svg">
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+    </tr>
+  </table>
 </div>
 
 <!-- Borda inferior-->
