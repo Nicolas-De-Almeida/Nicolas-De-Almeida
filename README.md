@@ -155,14 +155,6 @@
 <hr>
 
 <div align="center">
-  <a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">
-    <img src="./img/engsoft.png" width="425px" height="75px"/>
-  </a>
-</div>
-
-<hr>
-
-<div align="center">
   <table>
     <tr>
       <td align="center"></td>
@@ -187,6 +179,14 @@
       <td align="center"></td>
     </tr>
   </table>
+</div>
+
+<hr>
+
+<div align="center">
+  <a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">
+    <img src="./img/engsoft.png" width="425px" height="75px"/>
+  </a>
 </div>
 
 <!-- Borda inferior-->
