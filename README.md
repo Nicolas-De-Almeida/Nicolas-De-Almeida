@@ -1,6 +1,17 @@
-<div align="center"><img src="./img/borda-topo.svg" width="100%" align="top" alt=""></div>
-<p><img src="./img/borda-lateral-esq.svg" width="40" align="left" alt="">
-<img src="./img/borda-lateral-dir.svg" width="40" align="right" alt=""></p>
+<div align="center">
+  <picture>
+    <source media="(min-width: 1300px)" srcset="./img/borda-topo.svg">
+    <img src="./img/borda-topo-linha.svg" width="100%" align="top" alt="">
+  </picture>
+</div>
+<p><picture>
+  <source media="(min-width: 1300px)" srcset="./img/borda-lateral-esq.svg">
+  <img src="./img/vazio.svg" align="left" alt="">
+</picture>
+<picture>
+  <source media="(min-width: 1300px)" srcset="./img/borda-lateral-dir.svg">
+  <img src="./img/vazio.svg" align="right" alt="">
+</picture></p>
 
 <div align="center">
   <picture>
@@ -190,4 +201,9 @@
 </div>
 
 <!-- Borda inferior-->
-<div align="center"><img src="./img/borda-base.svg" width="100%" align="top" alt=""></div>
+<div align="center">
+  <picture>
+    <source media="(min-width: 1300px)" srcset="./img/borda-base.svg">
+    <img src="./img/borda-base-linha.svg" width="100%" align="top" alt="">
+  </picture>
+</div>
